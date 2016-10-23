@@ -1,0 +1,165 @@
+/*Add your styles below*/
+body {
+background: #daede2;
+    padding: 5%;
+}
+
+
+div, article, section, header, footer, nav, figure, li {
+    position: relative;
+    }
+
+
+h1{
+	    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background: #ea2e49;
+    color: #fff;
+    display: inline-block;
+    margin-bottom: 1em;
+    padding: 0.5em 1em;
+}
+.intro{
+	
+	padding: 5%;
+	background: #77c4d3;
+}
+
+#zen-intro{
+	box-sizing: border-box;
+	margin: 0;
+	
+}
+h2{
+	width: 66%;
+	font-size: 8em;
+	color: #fff;
+	font-weight: 900;
+	letter-spacing: 1px;
+	line-height: 1em;
+
+}
+.explanation{
+	float: left;
+	width: 40%;
+	color: #fff;
+	padding: 5%;
+	font-size: 1.1em;
+}
+
+p,li{
+	font-size: 1em;
+	font-weight: 400;
+    line-height: 1.5em;
+    padding: 0.5em 0;
+    
+}
+
+.main {
+    padding: 5%;
+    background:  #77c4d3;
+}
+
+.preamble{
+
+	background: rgba(255,255,255,0.9);
+    color: #333;
+    margin-left: -30%;
+    width: 550px;
+top: -170px;
+    padding: 1% 5% 1% 30%;
+    font-size: 1.1em;
+
+}
+
+.summary{
+color: #fff;
+    padding: 15% 0;
+    width: 400px;
+    font-size: 1.1em;
+
+}
+  
+h2,h3{
+	font-family: "tablet-gothic-condensed", "arial narrow", arial, verdana, sans-serif;
+}
+
+h3{
+	display: block;
+	font-size: 2.25em;
+    font-weight: 200;
+    letter-spacing: 1px;
+    line-height: 1em;
+    padding: 0.5em 0 0.25em 0;
+    font-family: "tablet-gothic-condensed", "arial narrow", arial, verdana, sans-serif;
+}
+a {
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    color: black;
+    text-decoration: none;
+    transition: border-color 0.2s ease-in-out;
+}
+.participation{
+	background: rgba(234,46,73,0.9);
+    color: #fff;
+    padding: 5%;
+	float: left;
+    width: 35%;
+    margin-top: -200px;
+    margin-left: 490px;
+    position: absolute;
+    font-size: 1.1em;
+    z-index: 1;
+}
+.benefits{
+	margin-top: 12%;
+	width: 20%;
+	float: left;
+	background: rgba(255,255,255,0.9);
+    padding: 5%;
+    right: 416px;
+    top:850px;
+
+
+}
+.requirements{
+	width: 60%;
+	float: left;
+	background: rgba(255,255,255,0.9);
+    padding: 5%;
+left: 390px;
+z-index: 1;
+
+}
+#zen-requirements{
+box-sizing: border-box;
+margin: 0;
+}
+
+footer{
+	background: rgba(246,247,146,0.9);
+    clear: both;
+    color: #fff;
+    padding: 1em 5%;
+    width: 50%;
+}
+.extra1{
+	background: rgba(51,55,69,0.9);
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    top: 0;
+    width: 30%;
+    z-index: 0;
+}
+.sidebar{
+	position: absolute;
+    right: 0;
+    top: 2.5%;
+    width: 25.75%;
+    background: rgba(246,247,146,0.9);
+    padding: 5%;
+    z-index: 1;
+
+}
